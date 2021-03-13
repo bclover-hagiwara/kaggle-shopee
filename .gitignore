@@ -1,0 +1,4 @@
+/dataset/*
+/dataset/test_images/*
+/dataset/train_images/*
+!.gtikeep
