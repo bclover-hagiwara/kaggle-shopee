@@ -2,3 +2,5 @@
 /dataset/test_images/*
 /dataset/train_images/*
 !.gtikeep
+
+.DS_Store
